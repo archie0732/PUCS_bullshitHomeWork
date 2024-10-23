@@ -1,3 +1,3 @@
 # bullshit Providence University Computer Science HomeWork
 
-<img href="" style="withd: 50px">
+<img href="./assert/mokey.jpg"/>
