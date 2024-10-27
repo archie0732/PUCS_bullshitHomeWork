@@ -22,7 +22,7 @@ mkfs -t ext4 /dev/sdb"X"
 mount your disk
 
 ```bash
-mount /dev/sdb"X" "ypur path"
+mount /dev/sdb"X" "your path"
 ```
 
 sucess?
