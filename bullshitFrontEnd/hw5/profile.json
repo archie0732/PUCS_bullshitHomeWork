@@ -1,0 +1,21 @@
+{
+  "name": "許育祁",
+  "status": "正在玩dc機器人",
+  "email": "aaa@gmail.com",
+  "phoneNUmber": "09123344",
+  "lernAndSkill": [
+    {
+      "name": "cpp",
+      "description": "一開始是想要寫遊戲跟寫遊戲的模組，後來寫寫後寫出心得就想要走這條路"
+    },
+    {
+      "name": "網路爬蟲",
+      "description": "因為懶惰想要寫一些自動化的機器人來幫助我完成一些重複的事，而接觸這個領域。以前是用python，現在比較常用typescrpt"
+    },
+    {
+      "name": "網頁前後端",
+      "description": "目前在學習寫網頁，目前寫下來也有一點自己的心得"
+    }
+  ],
+  "artist": "許育祁"
+}
