@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-echo "排序結果（依平均分數降序排列）："
+
 while IFS=: read -r name english unix; do
     total=$((english + unix))
     avg=$(awk "BEGIN { printf \"%.2f\", $total / 2 }")
